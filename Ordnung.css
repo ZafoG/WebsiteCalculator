@@ -1,0 +1,16 @@
+body {
+    background-color: rgba(0, 0, 0, 0.591);
+}
+
+h1 {
+    color: rgb(231, 148, 6);
+}
+
+p {
+    color: white;
+}
+
+button {
+    width: 20%;
+    height: 20%;
+}
